@@ -1,5 +1,5 @@
 # vana-sixgpt
-<!--源程序端口3000，修改为2999-->
+*源程序端口3000，修改为2999*
 ## 官方教程
 [https://github.com/sixgpt/miner]
 ## 运行
